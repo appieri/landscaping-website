@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GreenScape Landscaping Services</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>GreenScape Landscaping Services</h1>
+        <p>Your dream garden is just a call away!</p>
+    </header>
+
+    <main>
+        <section class="services">
+            <h2>Our Services</h2>
+            <div class="service-card">
+                <h3>Lawn Care</h3>
+                <p>Professional lawn mowing, fertilization, and maintenance.</p>
+            </div>
+            <div class="service-card">
+                <h3>Garden Design</h3>
+                <p>Custom garden designs to enhance your outdoor space.</p>
+            </div>
+            <div class="service-card">
+                <h3>Hardscaping</h3>
+                <p>Patios, walkways, and retaining walls to complement your landscape.</p>
+            </div>
+        </section>
+
+        <section class="call-to-action">
+            <h2>Get Your Free Estimate Today!</h2>
+            <p>Contact us to schedule a consultation.</p>
+            <a href="tel:1234567890" class="cta-button">Call Now</a>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 GreenScape Landscaping Services</p>
+    </footer>
+</body>
+</html>
